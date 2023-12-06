@@ -577,9 +577,9 @@ iface eth0 inet static
 | ------------------------- | ----------------- | ------------------- |
 | ![ping Switch 9](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/41a2f3db-2c85-487e-bcb7-e4018d977b3b)   | ![ping Frieren - Lugner](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/04e62753-e229-49c8-b003-febe0ffa2069) | ![ping A17](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/4635bd3d-8062-4fcf-ad93-ddd2af1de851) |
 
-| AppetitRegion             | GranzChannel  | BredtRegion          |
-| ------------------------- | ------------- | -------------------- |
-| ![Appetitregion](https://github.com/lalaladi/praksisop2/assets/90541607/d60c36c2-fa19-4f4b-94af-aef5114d75de)  | ![Granzchannel](https://github.com/lalaladi/praksisop2/assets/90541607/4083d518-ae02-402e-b53a-0590574e79c1) | ![Bredtregion](https://github.com/lalaladi/praksisop2/assets/90541607/5a1c8dc0-4676-45ba-9e19-b655c5118533) |
+| Aura - A7             | Aura - A8  | Aura - A13          |
+| --------------------- | ---------- | ------------------- |
+| ![ping A7](https://github.com/lalaladi/praksisop2/assets/90541607/a7f1e876-4d35-4c50-bb14-18c4e81bbee3)  | ![ping A8](https://github.com/lalaladi/praksisop2/assets/90541607/165051fa-3b4b-4b57-b653-8fef995c35fd) | ![ping A13](https://github.com/lalaladi/praksisop2/assets/90541607/09a8870e-cc34-4c0a-8253-3d5a61bc872a) |
                                                       
 | GrobeForest               | LakeKorridor | LaubHills           |
 | ------------------------- | ------------ | ------------------- |
@@ -589,6 +589,8 @@ iface eth0 inet static
 | ------------------------- | ------------ | ------------------- |
 | ![Riegelcanyon](https://github.com/lalaladi/praksisop2/assets/90541607/ed72cd00-0577-474b-8113-7a2f6fcfc450)  | ![Rohrroad](https://github.com/lalaladi/praksisop2/assets/90541607/5c186126-7d3d-439d-8cba-ade96ce8be22) | ![Royalcapital](https://github.com/lalaladi/praksisop2/assets/90541607/636f53c7-c664-4ba1-b11b-7fcb9eeabe6f) |
 
-| SchwerMountains           | TurkRegion   | WilleRegion         |
-| ------------------------- | ------------ | ------------------- |
-| ![Schwermountains](https://github.com/lalaladi/praksisop2/assets/90541607/afdd54aa-1809-4e70-815e-77c40acd4b6f)  | ![Turkregion](https://github.com/lalaladi/praksisop2/assets/90541607/9f56a34f-f421-459b-a0e4-26a148d39ec4) | ![WilleRegion](https://github.com/lalaladi/praksisop2/assets/90541607/e4a6eba5-cead-44b0-8b5f-0ea444623034) |
+# **Kendala Selama Pengerjaan**
+Berikut merupakan beberapa kendala dan kesulitan yang kami alami dalam pengerjaan Praktikum Modul 4 Jaringan Komputer, yakni :
+ - butuh ketelitian penuh dalam pengerjaannya
+
+# **The End**
