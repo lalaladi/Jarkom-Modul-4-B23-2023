@@ -569,15 +569,22 @@ iface eth0 inet static
 | ------------------------- | ------------ | ------------------- |
 |![ping A1](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/1a1d18c0-5265-4f04-8ec7-ad8aa9a4b123)   | ![ping A2](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/77eb6a31-f560-497c-a8f7-4a4a4b361c3b) | ![ping A4](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/57fc4538-4922-4b7d-be29-71448ff0244e) |
 
-| Aura - A7                 | Aura - A8  | Aura - A11          |
-| ------------------------- | ---------- | ------------------- |
-| ![ping A7](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/3c4ce0af-da4e-4425-8c84-1e2bb3042741)  | ![ping A8](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/ca4bf93e-9f36-40a7-a9b5-aeef65f13990) | ![ping A11](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/4d1a828f-c1ac-4aac-ab2a-b10d5a270cd0) |
-                                                      
-| Aura - A13                | Aura - A16 | Aura - A17          |
-| ------------------------- | ---------- | ------------------- |
-| ![ping A13](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/ff29a65c-629c-4108-b86c-7f18eb4f93cf)  | ![ping A16](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/6802a251-c2de-44c4-8dd8-7010aa9530a7) | ![ping A17](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/4635bd3d-8062-4fcf-ad93-ddd2af1de851) |
+| Aura - Switch 9           | Frieren - Lugner  | Aura - A17          |
+| ------------------------- | ----------------- | ------------------- |
+| ![ping Switch 9](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/41a2f3db-2c85-487e-bcb7-e4018d977b3b)   | ![ping Frieren - Lugner](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/04e62753-e229-49c8-b003-febe0ffa2069) | ![ping A17](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/4635bd3d-8062-4fcf-ad93-ddd2af1de851) |
 
-| Aura - Switch 9           | Frieren - Lugner  |
-| ------------------------- | ----------------- |
-| ![ping Switch 9](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/41a2f3db-2c85-487e-bcb7-e4018d977b3b)  | ![ping Frieren - Lugner](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/04e62753-e229-49c8-b003-febe0ffa2069)
- |
+| AppetitRegion             | GranzChannel  | BredtRegion          |
+| ------------------------- | ------------- | -------------------- |
+| ![Appetitregion](https://github.com/lalaladi/praksisop2/assets/90541607/d60c36c2-fa19-4f4b-94af-aef5114d75de)  | ![Granzchannel](https://github.com/lalaladi/praksisop2/assets/90541607/4083d518-ae02-402e-b53a-0590574e79c1) | ![Bredtregion](https://github.com/lalaladi/praksisop2/assets/90541607/5a1c8dc0-4676-45ba-9e19-b655c5118533) |
+                                                      
+| GrobeForest               | LakeKorridor | LaubHills           |
+| ------------------------- | ------------ | ------------------- |
+| ![Grobeforest](https://github.com/lalaladi/praksisop2/assets/90541607/d268e8c1-f8f6-4366-baca-1b410f3774cf)  | ![Lakekorridor](https://github.com/lalaladi/praksisop2/assets/90541607/7b8a2dac-20c7-479d-9d7a-d676646e74b9) | ![Laubhills](https://github.com/lalaladi/praksisop2/assets/90541607/d4e6ab04-b8ff-4bc6-8524-a2c413a191d2) |
+
+| RiegelCanyon              | RohrRoad     | RoyalCapital        |
+| ------------------------- | ------------ | ------------------- |
+| ![Riegelcanyon](https://github.com/lalaladi/praksisop2/assets/90541607/ed72cd00-0577-474b-8113-7a2f6fcfc450)  | ![Rohrroad](https://github.com/lalaladi/praksisop2/assets/90541607/5c186126-7d3d-439d-8cba-ade96ce8be22) | ![Royalcapital](https://github.com/lalaladi/praksisop2/assets/90541607/636f53c7-c664-4ba1-b11b-7fcb9eeabe6f) |
+
+| SchwerMountains           | TurkRegion   | WilleRegion         |
+| ------------------------- | ------------ | ------------------- |
+| ![Schwermountains](https://github.com/lalaladi/praksisop2/assets/90541607/afdd54aa-1809-4e70-815e-77c40acd4b6f)  | ![Turkregion](https://github.com/lalaladi/praksisop2/assets/90541607/9f56a34f-f421-459b-a0e4-26a148d39ec4) | ![WilleRegion](https://github.com/lalaladi/praksisop2/assets/90541607/e4a6eba5-cead-44b0-8b5f-0ea444623034) |
