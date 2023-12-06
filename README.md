@@ -569,6 +569,10 @@ iface eth0 inet static
 | ------------------------- | ------------ | ------------------- |
 |![ping A1](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/1a1d18c0-5265-4f04-8ec7-ad8aa9a4b123)   | ![ping A2](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/77eb6a31-f560-497c-a8f7-4a4a4b361c3b) | ![ping A4](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/57fc4538-4922-4b7d-be29-71448ff0244e) |
 
+| BredtRegion -> SchwerMountains      | LaubHills -> GranzChannel   | RoyalCapital -> TurkRegion      |
+| ----------------------------------- | --------------------------- | ------------------------------- |
+|![BredtRegion - SchwerMountains](https://github.com/lalaladi/praksisop2/assets/90541607/b895d83c-4de3-4968-97ff-35d97b8c49af)   | ![LaubHills - GranzChannel](https://github.com/lalaladi/praksisop2/assets/90541607/33e01c6b-40c9-4223-ad5f-f25584358873) | ![RoyalCapital - TurkRegion](https://github.com/lalaladi/praksisop2/assets/90541607/4c04242e-057f-495c-940c-c0fc149a6b38) |
+
 | Aura - Switch 9           | Frieren - Lugner  | Aura - A17          |
 | ------------------------- | ----------------- | ------------------- |
 | ![ping Switch 9](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/41a2f3db-2c85-487e-bcb7-e4018d977b3b)   | ![ping Frieren - Lugner](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/04e62753-e229-49c8-b003-febe0ffa2069) | ![ping A17](https://github.com/lalaladi/Jarkom-Modul-2-B23-2023/assets/90541607/4635bd3d-8062-4fcf-ad93-ddd2af1de851) |
